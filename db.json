@@ -1,8 +1,5 @@
 {
-
-	"posts":[
-		
-		{
+	"posts":[{
 		  "id": 1,
 		  "image":"https://cdn2.tstatic.net/tribunnews/foto/bank/images/sirkuit-mandalika-ntb.jpg",
 		  "like": 0	
@@ -26,8 +23,6 @@
 		  "id": 5,
 		  "image":"https://cdn2.tstatic.net/tribunnews/foto/bank/images/sirkuit-mandalika-ntb.jpg",
 		  "like": 0	
-		}
-
-	]
+		}]
 
 }
