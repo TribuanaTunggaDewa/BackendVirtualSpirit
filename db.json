@@ -1,21 +1,42 @@
 {
-    "data" : {
-        "list" : [
-            {
-                "psrsnewsid" : 1,
-                "title": "titile1", 
-                "content" : "content1",
-                "thumbnail" : "urlthumbnail",
-                "publishby" : "nama user yang entry news"
-            },
-            {
-                "psrsnewsid" : 2,
-                "title": "titile2", 
-                "content" : "content2",
-                "thumbnail" : "urlthumbnail",
-                "publishby" : "nama user yang entry news"
-            }            
-        ],
-        "status":200
-    }
+	"Posts":[
+		{
+		  "id": 1,
+		  "image":"https://cdn2.tstatic.net/tribunnews/foto/bank/images/sirkuit-mandalika-ntb.jpg",
+		  "like": 0	
+		},
+		{
+		  "id": 2,
+		  "image":"https://cdn2.tstatic.net/travel/foto/bank/images/bunaken_20170719_215528.jpg",
+		  "like": 0	
+		},
+		{
+		  "id": 3,
+		  "image":"https://www.jejakpiknik.com/wp-content/uploads/2018/06/Screenshot_120-1-630x380.jpg",
+		  "like": 0	
+		},
+		{
+		  "id": 4,
+		  "image":"https://cdn2.tstatic.net/jateng/foto/bank/images/gunung-agung-meletus-mei-lalu.jpg",
+		  "like": 0	
+		},
+		{
+		  "id": 5,
+		  "image":"https://mmc.tirto.id/image/otf/700x0/2019/07/26/kawah-ratu-gunung-tangkuban-parahu-istock_ratio-16x9.jpg",
+		  "like": 0	
+		}
+	],
+	"P3srs" : {
+		"List" : [
+			{
+				"id" : 1,
+				"title": "title",
+				"content": "content",
+				"thumbnail": "thumbnail",
+				"publishBy": "Person"
+			}
+		],
+		"status":200
+	}	
 }
+
